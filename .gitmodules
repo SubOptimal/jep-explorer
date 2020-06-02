@@ -1,3 +1,0 @@
-[submodule "peps"]
-	path = peps
-	url = https://github.com/python/peps.git
