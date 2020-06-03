@@ -61,7 +61,7 @@ def _jep_info():
             jep[key] = value.strip()
         link = row.find('a')
         jep_link = link.attrs['href']
-        jep['URL'] = jep_link
+        jep['URL'] = "http://openjdk.java.net/jeps/" + jep_link
         jep_title = link.text.strip()
         jep['Title'] = jep_title
         jeps.append(jep)
