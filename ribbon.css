@@ -1,0 +1,19 @@
+.ribbon {
+  background-color: #000080;
+  overflow: hidden;
+  position: fixed;
+  right: -2.8em;
+  top: 2.5em;
+  -webkit-transform: rotate(45deg);
+  -webkit-box-shadow: 0 0 1em #424242;
+}
+
+.ribbon a {
+  color: #fff;
+  display: block;
+  font: bold 0.81em "Nimbus Sans L", "Liberation Sans", FreeSans, Arial, Helvetica, Sans-serif;
+  margin: 0.05em 0 0.08em 0;
+  padding: 0.5em 3.5em;
+  text-align: center;
+  text-decoration: none;
+}

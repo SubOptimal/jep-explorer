@@ -1,88 +1,75 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
-    <title>PEP-Explorer find and filter Python Enhancement Proposals</title>
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-    <!-- Optional theme -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-    <script
-    src="https://code.jquery.com/jquery-3.2.1.min.js"
-    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-    crossorigin="anonymous"></script>
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <meta charset="utf-8">
+  <title>JEP-Explorer find and filter JDK Enhancement Proposals</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="ribbon.css">
 </head>
 <body>
-        <a href="https://github.com/tonybaloney/pep-explorer"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
-    <div class='container' ng-app="pepExplorer" ng-controller="pepCtrl">
-        <h1>PEP Explorer - Explore Python Enhancement Proposals</h1>
-
-        <span>
-            <b>Disclaimer: </b> This site is not affiliated with the Python Software Foundation. PEP's are documents in the public domain.
-            If you want to contribute to this page to improve it, <a href='https://github.com/tonybaloney/pep-explorer'>Fork on Github</a>
-        </span>
-
-        <div class='row'>
-                <div class="btn-group" role="group">
-                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Python Version ({{ selected_version }})
-                    <span class="caret"></span>
-                    </button>
-                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                        <li><a href="javascript:;" ng-click='pickversion("Any")'><b>Any</b></a></li>
-                        <li ng-repeat='x in possible_python_versions'>
-                            <a href="javascript:;" ng-click="pickversion(x)">{{x}}</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="btn-group" role="group">
-                        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Status ({{selected_status}})
-                        <span class="caret"></span>
-                        </button>
-                        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                            <li><a href="javascript:;" ng-click='pickstatus("Any")'><b>Any</b></a></li>
-                            <li ng-repeat='x in possible_statuses'>
-                                <a href="javascript:;" ng-click='pickstatus(x)'>{{x}}</a>
-                            </li>
-                        </ul>
-                </div>
-                <div class="btn-group" role="group">
-                        <input ng-model="query" type="text" class="form-control" placeholder="Filter by name">
-                </div>
-        </div>
-        <div class="row">
-    <div>
-
+  <div class="ribbon">
+    <a href="https://github.com/SubOptimal/jep-explorer">Show me on GitHub</a>
+  </div>
+  <div class='container' ng-app="jepExplorer" ng-controller="jepCtrl">
+    <h1>JEP Explorer - Explore JDK Enhancement Proposals</h1><span><b>Disclaimer:</b> This site is not affiliated with Oracle Corporation or its affiliates. The <a href='http://openjdk.java.net/jeps/0'>JEP's</a> are published in the public.<br>
+    <br></span>
+    <div class='row'>
+      <div class="btn-group" role="group">
+        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownVersion" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Java Version ({{ selected_version }})</button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownVersion">
+          <li>
+            <a href="javascript:;" ng-click='pickversion("Any")'><b>Any</b></a>
+          </li>
+          <li ng-repeat='x in possible_releases'>
+            <a href="javascript:;" ng-click="pickversion(x)">{{x}}</a>
+          </li>
+        </ul>
+      </div>
+      <div class="btn-group" role="group">
+        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownStatus" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Status ({{selected_status}})</button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownStatus">
+          <li>
+            <a href="javascript:;" ng-click='pickstatus("Any")'><b>Any</b></a>
+          </li>
+          <li ng-repeat='x in possible_statuses'>
+            <a href="javascript:;" ng-click='pickstatus(x)'>{{x}}</a>
+          </li>
+        </ul>
+      </div>
+      <div class="btn-group" role="group">
+        <input ng-model="query" type="text" class="form-control" placeholder="Filter by name">
+      </div>
+    </div>
+    <div class="row">
+      <div>
         <table class='table table-striped table-dark'>
-            <thead>
-                <tr>
-                    <th>PEP</th>
-                    <th>Title</th>
-                    <th>Status</th>
-                    <th>Created</th>
-                    <th>Python Version</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr ng-repeat="x in peps | orderBy: 'PEP' | filter: {Title: query}" ng-if="(selected_status == 'Any' || x.Status == selected_status) && (selected_version == 'Any' || x['Python-Version'] == selected_version)">
-                    <td>{{ x.PEP }}</td>
-                    <td><a ng-href="{{x.URL}}">{{ x.Title }}</a></td>
-                    <td>{{ x.Status }}</td>
-                    <td>{{ x.Created }}</td>
-                    <td>{{ x['Python-Version'] }}</td>
-                </tr>
-            </tbody>
+          <thead>
+            <tr>
+              <th>JEP</th>
+              <th>Title</th>
+              <th>Type</th>
+              <th>Status</th>
+              <th>Java Version</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr ng-repeat="x in jeps | orderBy: 'Number' : true | filter: {Title: query}" ng-if="(selected_status == 'Any' || x.Status == selected_status) &amp;&amp; (selected_version == 'Any' || x['Release'] == selected_version)">
+              <td>{{ x.Number }}</td>
+              <td>
+                <a ng-href="{{x.URL}}">{{ x.Title }}</a>
+              </td>
+              <td>{{ x.Type }}</td>
+              <td>{{ x.Status }}</td>
+              <td>{{ x['Release'] }}</td>
+            </tr>
+          </tbody>
         </table>
-
-        </div>
+      </div>
     </div>
-    </div>
-
-        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
-        <script src="app.js" type="text/javascript"> </script>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script> 
+  <script src="app.js" type="text/javascript"></script>
 </body>
 </html>

@@ -1,20 +1,16 @@
-# pep-explorer.github.io
-An easy to use online explorer for Python Enhancement Proposals
+# jep-explorer.github.io
 
-[See Online](https://tonybaloney.github.io/pep-explorer/)
+An easy to use online explorer for JDK Enhancement Proposals. They can be filtered by Java version and JEP status.
+
+[See Online](https://suboptimal.github.io/jep-explorer)
 
 
 ## Updating the index
 
-The pep/ directory is a git submodule for the actual PEP repository on Github
-
 ```bash
-cd peps
-git pull
-cd ..
-python3 genindex.py
+./get-jeps.py
 ```
 
-## Contributions
+## Credits
 
-Contributions welcome! I am not a web designer, the page looks pretty basic!
+Credit goes to [Anthony Shaw](https://github.com/tonybaloney) for his [PEP explorer](https://github.com/tonybaloney/pep-explorer).
