@@ -6,7 +6,6 @@
         "Completed",
         "Draft",
         "Integrated",
-        "Proposed to Target",
         "Submitted",
         "Targeted"
     ],
@@ -42,7 +41,7 @@
         {
             "Number": "385",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Completed",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/385",
             "Title": "Deprecate RMI Activation for Removal"
@@ -74,7 +73,7 @@
         {
             "Number": "381",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/381",
             "Title": "Remove the Solaris and SPARC Ports"
@@ -97,7 +96,7 @@
         {
             "Number": "378",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/378",
             "Title": "Text Blocks"
@@ -120,7 +119,7 @@
         {
             "Number": "375",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/375",
             "Title": "Pattern Matching for instanceof (Second Preview)"
@@ -128,7 +127,7 @@
         {
             "Number": "374",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Closed\u2009/\u2009Delivered",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/374",
             "Title": "Disable and Deprecate Biased Locking"
@@ -240,7 +239,7 @@
         {
             "Number": "360",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/360",
             "Title": "Sealed Classes (Preview)"
