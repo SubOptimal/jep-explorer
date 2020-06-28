@@ -57,7 +57,7 @@
         {
             "Number": "383",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/383",
             "Title": "Foreign-Memory Access API (Second Incubator)"
@@ -73,7 +73,7 @@
         {
             "Number": "381",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/381",
             "Title": "Remove the Solaris and SPARC Ports"
@@ -135,7 +135,7 @@
         {
             "Number": "373",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/373",
             "Title": "Reimplement the Legacy DatagramSocket API"
@@ -343,7 +343,7 @@
             "Type": "Infrastructure",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/347",
-            "Title": "Adopt C++14 Language Features in HotSpot"
+            "Title": "Adopt C++14 Language Features in the JDK"
         },
         {
             "Number": "346",
