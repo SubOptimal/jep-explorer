@@ -6,6 +6,7 @@
         "Completed",
         "Draft",
         "Integrated",
+        "Proposed to Target",
         "Submitted",
         "Targeted"
     ],
@@ -341,7 +342,8 @@
         {
             "Number": "347",
             "Type": "Infrastructure",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
+            "Release": "16",
             "URL": "http://openjdk.java.net/jeps/347",
             "Title": "Adopt C++14 Language Features in the JDK"
         },
