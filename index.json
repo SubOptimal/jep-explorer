@@ -33,6 +33,13 @@
     ],
     "jeps": [
         {
+            "Number": "387",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/387",
+            "Title": "Elastic Metaspace"
+        },
+        {
             "Number": "386",
             "Type": "Feature",
             "Status": "Candidate",
