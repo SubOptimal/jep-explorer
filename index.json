@@ -352,7 +352,7 @@
             "Status": "Proposed to Target",
             "Release": "16",
             "URL": "http://openjdk.java.net/jeps/347",
-            "Title": "Adopt C++14 Language Features in the JDK"
+            "Title": "Enable C++14 Language Features"
         },
         {
             "Number": "346",
