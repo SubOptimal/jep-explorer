@@ -49,7 +49,7 @@
         {
             "Number": "385",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/385",
             "Title": "Deprecate RMI Activation for Removal"
@@ -159,7 +159,7 @@
         {
             "Number": "371",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/371",
             "Title": "Hidden Classes"
