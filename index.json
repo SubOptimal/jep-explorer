@@ -419,7 +419,7 @@
         {
             "Number": "339",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Closed\u2009/\u2009Delivered",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/339",
             "Title": "Edwards-Curve Digital Signature Algorithm (EdDSA)"
