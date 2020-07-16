@@ -33,6 +33,13 @@
     ],
     "jeps": [
         {
+            "Number": "388",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/388",
+            "Title": "Windows/AArch64 Port"
+        },
+        {
             "Number": "387",
             "Type": "Feature",
             "Status": "Candidate",
