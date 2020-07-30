@@ -5,6 +5,7 @@
         "Closed\u2009/\u2009Withdrawn",
         "Completed",
         "Draft",
+        "Integrated",
         "Submitted",
         "Targeted"
     ],
@@ -354,7 +355,7 @@
         {
             "Number": "347",
             "Type": "Infrastructure",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "Release": "16",
             "URL": "http://openjdk.java.net/jeps/347",
             "Title": "Enable C++14 Language Features"
