@@ -63,7 +63,7 @@
         {
             "Number": "384",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/384",
             "Title": "Records (Second Preview)"
@@ -149,7 +149,7 @@
         {
             "Number": "373",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/373",
             "Title": "Reimplement the Legacy DatagramSocket API"
@@ -253,7 +253,7 @@
         {
             "Number": "360",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/360",
             "Title": "Sealed Classes (Preview)"
