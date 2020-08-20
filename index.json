@@ -33,6 +33,13 @@
     ],
     "jeps": [
         {
+            "Number": "389",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/389",
+            "Title": "Foreign Linker API (Incubator)"
+        },
+        {
             "Number": "388",
             "Type": "Feature",
             "Status": "Candidate",
