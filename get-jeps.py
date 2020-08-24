@@ -42,7 +42,7 @@ def main():
 
 
 def _jep_info():
-    page = requests.get('http://openjdk.java.net/jeps/0')
+    page = requests.get('https://openjdk.java.net/jeps/0', timeout=5)
     if page.status_code != 200:
         print(f"failed to get JEP index: HTTP status code {page.status_code}")
         sys.exit(1)
