@@ -3,7 +3,6 @@
         "Candidate",
         "Closed\u2009/\u2009Delivered",
         "Closed\u2009/\u2009Withdrawn",
-        "Completed",
         "Draft",
         "Integrated",
         "Proposed to Target",
@@ -110,7 +109,7 @@
         {
             "Number": "379",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "Release": "15",
             "URL": "http://openjdk.java.net/jeps/379",
             "Title": "Shenandoah: A Low-Pause-Time Garbage Collector (Production)"
