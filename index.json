@@ -6,7 +6,6 @@
         "Draft",
         "Integrated",
         "Proposed to Target",
-        "Submitted",
         "Targeted"
     ],
     "possible_releases": [
@@ -434,7 +433,7 @@
         {
             "Number": "338",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "Release": "16",
             "URL": "http://openjdk.java.net/jeps/338",
             "Title": "Vector API (Incubator)"
@@ -1836,7 +1835,7 @@
         {
             "Number": "159",
             "Type": "Feature",
-            "Status": "Submitted",
+            "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/159",
             "Title": "Enhanced Class Redefinition"
         },
