@@ -40,14 +40,14 @@
         {
             "Number": "388",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/388",
             "Title": "Windows/AArch64 Port"
         },
         {
             "Number": "387",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "Release": "16",
             "URL": "http://openjdk.java.net/jeps/387",
             "Title": "Elastic Metaspace"
