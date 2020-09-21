@@ -41,6 +41,7 @@
             "Number": "388",
             "Type": "Feature",
             "Status": "Proposed to Target",
+            "Release": "16",
             "URL": "http://openjdk.java.net/jeps/388",
             "Title": "Windows/AArch64 Port"
         },
