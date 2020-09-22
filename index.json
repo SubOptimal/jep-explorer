@@ -135,7 +135,8 @@
         {
             "Number": "376",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
+            "Release": "16",
             "URL": "http://openjdk.java.net/jeps/376",
             "Title": "ZGC: Concurrent Thread-Stack Processing"
         },
