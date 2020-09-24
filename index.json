@@ -31,6 +31,13 @@
     ],
     "jeps": [
         {
+            "Number": "390",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/390",
+            "Title": "Warnings for Value-Based Classes"
+        },
+        {
             "Number": "389",
             "Type": "Feature",
             "Status": "Candidate",
