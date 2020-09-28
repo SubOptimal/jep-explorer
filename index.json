@@ -31,6 +31,20 @@
     ],
     "jeps": [
         {
+            "Number": "392",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/392",
+            "Title": "Packaging Tool"
+        },
+        {
+            "Number": "391",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/391",
+            "Title": "macOS/AArch64 Port"
+        },
+        {
             "Number": "390",
             "Type": "Feature",
             "Status": "Candidate",
