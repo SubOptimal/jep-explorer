@@ -10,6 +10,7 @@
     ],
     "possible_releases": [
         "tbd",
+        "---",
         "16",
         "15",
         "14",
@@ -32,6 +33,7 @@
     "jeps": [
         {
             "Number": "393",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/393",
@@ -39,6 +41,7 @@
         },
         {
             "Number": "392",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/392",
@@ -46,6 +49,7 @@
         },
         {
             "Number": "391",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/391",
@@ -53,6 +57,7 @@
         },
         {
             "Number": "390",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/390",
@@ -60,6 +65,7 @@
         },
         {
             "Number": "389",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/389",
@@ -67,70 +73,71 @@
         },
         {
             "Number": "388",
+            "Release": "16",
             "Type": "Feature",
             "Status": "Proposed to Target",
-            "Release": "16",
             "URL": "http://openjdk.java.net/jeps/388",
             "Title": "Windows/AArch64 Port"
         },
         {
             "Number": "387",
+            "Release": "16",
             "Type": "Feature",
             "Status": "Targeted",
-            "Release": "16",
             "URL": "http://openjdk.java.net/jeps/387",
             "Title": "Elastic Metaspace"
         },
         {
             "Number": "386",
+            "Release": "16",
             "Type": "Feature",
             "Status": "Proposed to Target",
-            "Release": "16",
             "URL": "http://openjdk.java.net/jeps/386",
             "Title": "Alpine Linux Port"
         },
         {
             "Number": "385",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/385",
             "Title": "Deprecate RMI Activation for Removal"
         },
         {
             "Number": "384",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/384",
             "Title": "Records (Second Preview)"
         },
         {
             "Number": "383",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/383",
             "Title": "Foreign-Memory Access API (Second Incubator)"
         },
         {
             "Number": "382",
+            "Release": "tbd",
             "Type": "Feature",
             "Status": "Candidate",
-            "Release": "tbd",
             "URL": "http://openjdk.java.net/jeps/382",
             "Title": "New macOS Rendering Pipeline"
         },
         {
             "Number": "381",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/381",
             "Title": "Remove the Solaris and SPARC Ports"
         },
         {
             "Number": "380",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/380",
@@ -138,190 +145,191 @@
         },
         {
             "Number": "379",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/379",
             "Title": "Shenandoah: A Low-Pause-Time Garbage Collector (Production)"
         },
         {
             "Number": "378",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/378",
             "Title": "Text Blocks"
         },
         {
             "Number": "377",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/377",
             "Title": "ZGC: A Scalable Low-Latency Garbage Collector (Production)"
         },
         {
             "Number": "376",
+            "Release": "16",
             "Type": "Feature",
             "Status": "Proposed to Target",
-            "Release": "16",
             "URL": "http://openjdk.java.net/jeps/376",
             "Title": "ZGC: Concurrent Thread-Stack Processing"
         },
         {
             "Number": "375",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/375",
             "Title": "Pattern Matching for instanceof (Second Preview)"
         },
         {
             "Number": "374",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/374",
             "Title": "Disable and Deprecate Biased Locking"
         },
         {
             "Number": "373",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/373",
             "Title": "Reimplement the Legacy DatagramSocket API"
         },
         {
             "Number": "372",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/372",
             "Title": "Remove the Nashorn JavaScript Engine"
         },
         {
             "Number": "371",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/371",
             "Title": "Hidden Classes"
         },
         {
             "Number": "370",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/370",
             "Title": "Foreign-Memory Access API (Incubator)"
         },
         {
             "Number": "369",
+            "Release": "16",
             "Type": "Infrastructure",
             "Status": "Integrated",
-            "Release": "16",
             "URL": "http://openjdk.java.net/jeps/369",
             "Title": "Migrate to GitHub"
         },
         {
             "Number": "368",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/368",
             "Title": "Text Blocks (Second Preview)"
         },
         {
             "Number": "367",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/367",
             "Title": "Remove the Pack200 Tools and API"
         },
         {
             "Number": "366",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/366",
             "Title": "Deprecate the ParallelScavenge + SerialOld GC Combination"
         },
         {
             "Number": "365",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/365",
             "Title": "ZGC on Windows (Experimental)"
         },
         {
             "Number": "364",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/364",
             "Title": "ZGC on macOS (Experimental)"
         },
         {
             "Number": "363",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/363",
             "Title": "Remove the Concurrent Mark Sweep (CMS) Garbage Collector"
         },
         {
             "Number": "362",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/362",
             "Title": "Deprecate the Solaris and SPARC Ports"
         },
         {
             "Number": "361",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/361",
             "Title": "Switch Expressions"
         },
         {
             "Number": "360",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/360",
             "Title": "Sealed Classes (Preview)"
         },
         {
             "Number": "359",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/359",
             "Title": "Records (Preview)"
         },
         {
             "Number": "358",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/358",
             "Title": "Helpful NullPointerExceptions"
         },
         {
             "Number": "357",
+            "Release": "16",
             "Type": "Infrastructure",
             "Status": "Integrated",
-            "Release": "16",
             "URL": "http://openjdk.java.net/jeps/357",
             "Title": "Migrate from Mercurial to Git"
         },
         {
             "Number": "356",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/356",
@@ -329,62 +337,63 @@
         },
         {
             "Number": "355",
+            "Release": "13",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "13",
             "URL": "http://openjdk.java.net/jeps/355",
             "Title": "Text Blocks (Preview)"
         },
         {
             "Number": "354",
+            "Release": "13",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "13",
             "URL": "http://openjdk.java.net/jeps/354",
             "Title": "Switch Expressions (Second Preview)"
         },
         {
             "Number": "353",
+            "Release": "13",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "13",
             "URL": "http://openjdk.java.net/jeps/353",
             "Title": "Reimplement the Legacy Socket API"
         },
         {
             "Number": "352",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/352",
             "Title": "Non-Volatile Mapped Byte Buffers"
         },
         {
             "Number": "351",
+            "Release": "13",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "13",
             "URL": "http://openjdk.java.net/jeps/351",
             "Title": "ZGC: Uncommit Unused Memory (Experimental)"
         },
         {
             "Number": "350",
+            "Release": "13",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "13",
             "URL": "http://openjdk.java.net/jeps/350",
             "Title": "Dynamic CDS Archives"
         },
         {
             "Number": "349",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/349",
             "Title": "JFR Event Streaming"
         },
         {
             "Number": "348",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/348",
@@ -392,46 +401,47 @@
         },
         {
             "Number": "347",
+            "Release": "16",
             "Type": "Infrastructure",
             "Status": "Integrated",
-            "Release": "16",
             "URL": "http://openjdk.java.net/jeps/347",
             "Title": "Enable C++14 Language Features"
         },
         {
             "Number": "346",
+            "Release": "12",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "12",
             "URL": "http://openjdk.java.net/jeps/346",
             "Title": "Promptly Return Unused Committed Memory from G1"
         },
         {
             "Number": "345",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/345",
             "Title": "NUMA-Aware Memory Allocation for G1"
         },
         {
             "Number": "344",
+            "Release": "12",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "12",
             "URL": "http://openjdk.java.net/jeps/344",
             "Title": "Abortable Mixed Collections for G1"
         },
         {
             "Number": "343",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/343",
             "Title": "Packaging Tool (Incubator)"
         },
         {
             "Number": "342",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/342",
@@ -439,38 +449,39 @@
         },
         {
             "Number": "341",
+            "Release": "12",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "12",
             "URL": "http://openjdk.java.net/jeps/341",
             "Title": "Default CDS Archives"
         },
         {
             "Number": "340",
+            "Release": "12",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "12",
             "URL": "http://openjdk.java.net/jeps/340",
             "Title": "One AArch64 Port, Not Two"
         },
         {
             "Number": "339",
+            "Release": "15",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "15",
             "URL": "http://openjdk.java.net/jeps/339",
             "Title": "Edwards-Curve Digital Signature Algorithm (EdDSA)"
         },
         {
             "Number": "338",
+            "Release": "16",
             "Type": "Feature",
             "Status": "Targeted",
-            "Release": "16",
             "URL": "http://openjdk.java.net/jeps/338",
             "Title": "Vector API (Incubator)"
         },
         {
             "Number": "337",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/337",
@@ -478,86 +489,87 @@
         },
         {
             "Number": "336",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/336",
             "Title": "Deprecate the Pack200 Tools and API"
         },
         {
             "Number": "335",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/335",
             "Title": "Deprecate the Nashorn JavaScript Engine"
         },
         {
             "Number": "334",
+            "Release": "12",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "12",
             "URL": "http://openjdk.java.net/jeps/334",
             "Title": "JVM Constants API"
         },
         {
             "Number": "333",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/333",
             "Title": "ZGC: A Scalable Low-Latency Garbage Collector (Experimental)"
         },
         {
             "Number": "332",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/332",
             "Title": "Transport Layer Security (TLS) 1.3"
         },
         {
             "Number": "331",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/331",
             "Title": "Low-Overhead Heap Profiling"
         },
         {
             "Number": "330",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/330",
             "Title": "Launch Single-File Source-Code Programs"
         },
         {
             "Number": "329",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/329",
             "Title": "ChaCha20 and Poly1305 Cryptographic Algorithms"
         },
         {
             "Number": "328",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/328",
             "Title": "Flight Recorder"
         },
         {
             "Number": "327",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/327",
             "Title": "Unicode 10"
         },
         {
             "Number": "326",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/326",
@@ -565,118 +577,119 @@
         },
         {
             "Number": "325",
+            "Release": "12",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "12",
             "URL": "http://openjdk.java.net/jeps/325",
             "Title": "Switch Expressions (Preview)"
         },
         {
             "Number": "324",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/324",
             "Title": "Key Agreement with Curve25519 and Curve448"
         },
         {
             "Number": "323",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/323",
             "Title": "Local-Variable Syntax for Lambda Parameters"
         },
         {
             "Number": "322",
+            "Release": "10",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/322",
             "Title": "Time-Based Release Versioning"
         },
         {
             "Number": "321",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/321",
             "Title": "HTTP Client"
         },
         {
             "Number": "320",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/320",
             "Title": "Remove the Java EE and CORBA Modules"
         },
         {
             "Number": "319",
+            "Release": "10",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/319",
             "Title": "Root Certificates"
         },
         {
             "Number": "318",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/318",
             "Title": "Epsilon: A No-Op Garbage Collector (Experimental)"
         },
         {
             "Number": "317",
+            "Release": "10",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/317",
             "Title": "Experimental Java-Based JIT Compiler"
         },
         {
             "Number": "316",
+            "Release": "10",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/316",
             "Title": "Heap Allocation on Alternative Memory Devices"
         },
         {
             "Number": "315",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/315",
             "Title": "Improve Aarch64 Intrinsics"
         },
         {
             "Number": "314",
+            "Release": "10",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/314",
             "Title": "Additional Unicode Language-Tag Extensions"
         },
         {
             "Number": "313",
+            "Release": "10",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/313",
             "Title": "Remove the Native-Header Generation Tool (javah)"
         },
         {
             "Number": "312",
+            "Release": "10",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/312",
             "Title": "Thread-Local Handshakes"
         },
         {
             "Number": "311",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/311",
@@ -684,22 +697,23 @@
         },
         {
             "Number": "310",
+            "Release": "10",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/310",
             "Title": "Application Class-Data Sharing"
         },
         {
             "Number": "309",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/309",
             "Title": "Dynamic Class-File Constants"
         },
         {
             "Number": "308",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/308",
@@ -707,14 +721,15 @@
         },
         {
             "Number": "307",
+            "Release": "10",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/307",
             "Title": "Parallel Full GC for G1"
         },
         {
             "Number": "306",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/306",
@@ -722,22 +737,23 @@
         },
         {
             "Number": "305",
+            "Release": "14",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "14",
             "URL": "http://openjdk.java.net/jeps/305",
             "Title": "Pattern Matching for instanceof (Preview)"
         },
         {
             "Number": "304",
+            "Release": "10",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/304",
             "Title": "Garbage Collector Interface"
         },
         {
             "Number": "303",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/303",
@@ -745,6 +761,7 @@
         },
         {
             "Number": "302",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/302",
@@ -752,13 +769,15 @@
         },
         {
             "Number": "301",
+            "Release": "---",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/301",
             "Title": "Enhanced Enums"
         },
         {
             "Number": "300",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/300",
@@ -766,54 +785,55 @@
         },
         {
             "Number": "299",
+            "Release": "9",
             "Type": "Infrastructure",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/299",
             "Title": "Reorganize Documentation"
         },
         {
             "Number": "298",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/298",
             "Title": "Remove Demos and Samples"
         },
         {
             "Number": "297",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/297",
             "Title": "Unified arm32/arm64 Port"
         },
         {
             "Number": "296",
+            "Release": "10",
             "Type": "Infrastructure",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/296",
             "Title": "Consolidate the JDK Forest into a Single Repository"
         },
         {
             "Number": "295",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/295",
             "Title": "Ahead-of-Time Compilation"
         },
         {
             "Number": "294",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/294",
             "Title": "Linux/s390x Port"
         },
         {
             "Number": "293",
+            "Release": "---",
             "Type": "Informational",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/293",
@@ -821,470 +841,471 @@
         },
         {
             "Number": "292",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/292",
             "Title": "Implement Selected ECMAScript 6 Features in Nashorn"
         },
         {
             "Number": "291",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/291",
             "Title": "Deprecate the Concurrent Mark Sweep (CMS) Garbage Collector"
         },
         {
             "Number": "290",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/290",
             "Title": "Filter Incoming Serialization Data"
         },
         {
             "Number": "289",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/289",
             "Title": "Deprecate the Applet API"
         },
         {
             "Number": "288",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/288",
             "Title": "Disable SHA-1 Certificates"
         },
         {
             "Number": "287",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/287",
             "Title": "SHA-3 Hash Algorithms"
         },
         {
             "Number": "286",
+            "Release": "10",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "10",
             "URL": "http://openjdk.java.net/jeps/286",
             "Title": "Local-Variable Type Inference"
         },
         {
             "Number": "285",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/285",
             "Title": "Spin-Wait Hints"
         },
         {
             "Number": "284",
+            "Release": "9",
             "Type": "Infrastructure",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/284",
             "Title": "New HotSpot Build System"
         },
         {
             "Number": "283",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/283",
             "Title": "Enable GTK 3 on Linux"
         },
         {
             "Number": "282",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/282",
             "Title": "jlink: The Java Linker"
         },
         {
             "Number": "281",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/281",
             "Title": "HotSpot C++ Unit-Test Framework"
         },
         {
             "Number": "280",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/280",
             "Title": "Indify String Concatenation"
         },
         {
             "Number": "279",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/279",
             "Title": "Improve Test-Failure Troubleshooting"
         },
         {
             "Number": "278",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/278",
             "Title": "Additional Tests for Humongous Objects in G1"
         },
         {
             "Number": "277",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/277",
             "Title": "Enhanced Deprecation"
         },
         {
             "Number": "276",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/276",
             "Title": "Dynamic Linking of Language-Defined Object Models"
         },
         {
             "Number": "275",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/275",
             "Title": "Modular Java Application Packaging"
         },
         {
             "Number": "274",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/274",
             "Title": "Enhanced Method Handles"
         },
         {
             "Number": "273",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/273",
             "Title": "DRBG-Based SecureRandom Implementations"
         },
         {
             "Number": "272",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/272",
             "Title": "Platform-Specific Desktop Features"
         },
         {
             "Number": "271",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/271",
             "Title": "Unified GC Logging"
         },
         {
             "Number": "270",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/270",
             "Title": "Reserved Stack Areas for Critical Sections"
         },
         {
             "Number": "269",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/269",
             "Title": "Convenience Factory Methods for Collections"
         },
         {
             "Number": "268",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/268",
             "Title": "XML Catalogs"
         },
         {
             "Number": "267",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/267",
             "Title": "Unicode 8.0"
         },
         {
             "Number": "266",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/266",
             "Title": "More Concurrency Updates"
         },
         {
             "Number": "265",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/265",
             "Title": "Marlin Graphics Renderer"
         },
         {
             "Number": "264",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/264",
             "Title": "Platform Logging API and Service"
         },
         {
             "Number": "263",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/263",
             "Title": "HiDPI Graphics on Windows and Linux"
         },
         {
             "Number": "262",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/262",
             "Title": "TIFF Image I/O"
         },
         {
             "Number": "261",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/261",
             "Title": "Module System"
         },
         {
             "Number": "260",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/260",
             "Title": "Encapsulate Most Internal APIs"
         },
         {
             "Number": "259",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/259",
             "Title": "Stack-Walking API"
         },
         {
             "Number": "258",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/258",
             "Title": "HarfBuzz Font-Layout Engine"
         },
         {
             "Number": "257",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/257",
             "Title": "Update JavaFX/Media to Newer Version of GStreamer"
         },
         {
             "Number": "256",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/256",
             "Title": "BeanInfo Annotations"
         },
         {
             "Number": "255",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/255",
             "Title": "Merge Selected Xerces 2.11.0 Updates into JAXP"
         },
         {
             "Number": "254",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/254",
             "Title": "Compact Strings"
         },
         {
             "Number": "253",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/253",
             "Title": "Prepare JavaFX UI Controls & CSS APIs for Modularization"
         },
         {
             "Number": "252",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/252",
             "Title": "Use CLDR Locale Data by Default"
         },
         {
             "Number": "251",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/251",
             "Title": "Multi-Resolution Images"
         },
         {
             "Number": "250",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/250",
             "Title": "Store Interned Strings in CDS Archives"
         },
         {
             "Number": "249",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/249",
             "Title": "OCSP Stapling for TLS"
         },
         {
             "Number": "248",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/248",
             "Title": "Make G1 the Default Garbage Collector"
         },
         {
             "Number": "247",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/247",
             "Title": "Compile for Older Platform Versions"
         },
         {
             "Number": "246",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/246",
             "Title": "Leverage CPU Instructions for GHASH and RSA"
         },
         {
             "Number": "245",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/245",
             "Title": "Validate JVM Command-Line Flag Arguments"
         },
         {
             "Number": "244",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/244",
             "Title": "TLS Application-Layer Protocol Negotiation Extension"
         },
         {
             "Number": "243",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/243",
             "Title": "Java-Level JVM Compiler Interface"
         },
         {
             "Number": "242",
+            "Release": "8u60",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u60",
             "URL": "http://openjdk.java.net/jeps/242",
             "Title": "JVM Trace Events for Failed Allocations"
         },
         {
             "Number": "241",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/241",
             "Title": "Remove the jhat Tool"
         },
         {
             "Number": "240",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/240",
             "Title": "Remove the JVM TI hprof Agent"
         },
         {
             "Number": "239",
+            "Release": "8u60",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u60",
             "URL": "http://openjdk.java.net/jeps/239",
             "Title": "Update JavaFX/WebView to Newer Version of WebKit"
         },
         {
             "Number": "238",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/238",
             "Title": "Multi-Release JAR Files"
         },
         {
             "Number": "237",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/237",
             "Title": "Linux/AArch64 Port"
         },
         {
             "Number": "236",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/236",
             "Title": "Parser API for Nashorn"
         },
         {
             "Number": "235",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/235",
             "Title": "Test Class-File Attributes Generated by javac"
         },
         {
             "Number": "234",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/234",
@@ -1292,126 +1313,127 @@
         },
         {
             "Number": "233",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/233",
             "Title": "Generate Run-Time Compiler Tests Automatically"
         },
         {
             "Number": "232",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/232",
             "Title": "Improve Secure Application Performance"
         },
         {
             "Number": "231",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/231",
             "Title": "Remove Launch-Time JRE Version Selection"
         },
         {
             "Number": "230",
+            "Release": "12",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "12",
             "URL": "http://openjdk.java.net/jeps/230",
             "Title": "Microbenchmark Suite"
         },
         {
             "Number": "229",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/229",
             "Title": "Create PKCS12 Keystores by Default"
         },
         {
             "Number": "228",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/228",
             "Title": "Add More Diagnostic Commands"
         },
         {
             "Number": "227",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/227",
             "Title": "Unicode 7.0"
         },
         {
             "Number": "226",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/226",
             "Title": "UTF-8 Property Resource Bundles"
         },
         {
             "Number": "225",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/225",
             "Title": "Javadoc Search"
         },
         {
             "Number": "224",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/224",
             "Title": "HTML5 Javadoc"
         },
         {
             "Number": "223",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/223",
             "Title": "New Version-String Scheme"
         },
         {
             "Number": "222",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/222",
             "Title": "jshell: The Java Shell (Read-Eval-Print Loop)"
         },
         {
             "Number": "221",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/221",
             "Title": "New Doclet API"
         },
         {
             "Number": "220",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/220",
             "Title": "Modular Run-Time Images"
         },
         {
             "Number": "219",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/219",
             "Title": "Datagram Transport Layer Security (DTLS)"
         },
         {
             "Number": "218",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/218",
@@ -1419,158 +1441,159 @@
         },
         {
             "Number": "217",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/217",
             "Title": "Annotations Pipeline 2.0"
         },
         {
             "Number": "216",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/216",
             "Title": "Process Import Statements Correctly"
         },
         {
             "Number": "215",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/215",
             "Title": "Tiered Attribution for javac"
         },
         {
             "Number": "214",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/214",
             "Title": "Remove GC Combinations Deprecated in JDK 8"
         },
         {
             "Number": "213",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/213",
             "Title": "Milling Project Coin"
         },
         {
             "Number": "212",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/212",
             "Title": "Resolve Lint and Doclint Warnings"
         },
         {
             "Number": "211",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/211",
             "Title": "Elide Deprecation Warnings on Import Statements"
         },
         {
             "Number": "210",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/210",
             "Title": "LambdaForm Reduction and Caching"
         },
         {
             "Number": "209",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/209",
             "Title": "JavaFX Scene Builder Update"
         },
         {
             "Number": "208",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/208",
             "Title": "Java Packager Improvements"
         },
         {
             "Number": "207",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/207",
             "Title": "Leverage CPU Instructions to Improve SHA Performance on SPARC"
         },
         {
             "Number": "206",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/206",
             "Title": "Modernize the JavaFX Media Stack on Mac OS X"
         },
         {
             "Number": "205",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/205",
             "Title": "New Controls for JavaFX"
         },
         {
             "Number": "204",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/204",
             "Title": "JavaFX Accessibility"
         },
         {
             "Number": "203",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/203",
             "Title": "Nashorn: Lexically-Scoped Variable & Constant Declarations"
         },
         {
             "Number": "202",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/202",
             "Title": "Nashorn Class Filter"
         },
         {
             "Number": "201",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/201",
             "Title": "Modular Source Code"
         },
         {
             "Number": "200",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/200",
             "Title": "The Modular JDK"
         },
         {
             "Number": "199",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/199",
             "Title": "Smart Java Compilation, Phase Two"
         },
         {
             "Number": "198",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/198",
@@ -1578,30 +1601,31 @@
         },
         {
             "Number": "197",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/197",
             "Title": "Segmented Code Cache"
         },
         {
             "Number": "196",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/196",
             "Title": "Nashorn Optimistic Typing"
         },
         {
             "Number": "195",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/195",
             "Title": "Scalable Native Memory Tracking"
         },
         {
             "Number": "194",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/194",
@@ -1609,22 +1633,23 @@
         },
         {
             "Number": "193",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/193",
             "Title": "Variable Handles"
         },
         {
             "Number": "192",
+            "Release": "8u20",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u20",
             "URL": "http://openjdk.java.net/jeps/192",
             "Title": "String Deduplication in G1"
         },
         {
             "Number": "191",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Draft",
             "URL": "http://openjdk.java.net/jeps/191",
@@ -1632,6 +1657,7 @@
         },
         {
             "Number": "190",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Draft",
             "URL": "http://openjdk.java.net/jeps/190",
@@ -1639,14 +1665,15 @@
         },
         {
             "Number": "189",
+            "Release": "12",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "12",
             "URL": "http://openjdk.java.net/jeps/189",
             "Title": "Shenandoah: A Low-Pause-Time Garbage Collector (Experimental)"
         },
         {
             "Number": "188",
+            "Release": "---",
             "Type": "Informational",
             "Status": "Draft",
             "URL": "http://openjdk.java.net/jeps/188",
@@ -1654,6 +1681,7 @@
         },
         {
             "Number": "186",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Draft",
             "URL": "http://openjdk.java.net/jeps/186",
@@ -1661,22 +1689,23 @@
         },
         {
             "Number": "185",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/185",
             "Title": "Restrict Fetching of External XML Resources"
         },
         {
             "Number": "184",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/184",
             "Title": "HTTP URL Permissions"
         },
         {
             "Number": "183",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/183",
@@ -1684,6 +1713,7 @@
         },
         {
             "Number": "182",
+            "Release": "---",
             "Type": "Informational",
             "Status": "Draft",
             "URL": "http://openjdk.java.net/jeps/182",
@@ -1691,102 +1721,103 @@
         },
         {
             "Number": "181",
+            "Release": "11",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "11",
             "URL": "http://openjdk.java.net/jeps/181",
             "Title": "Nest-Based Access Control"
         },
         {
             "Number": "180",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/180",
             "Title": "Handle Frequent HashMap Collisions with Balanced Trees"
         },
         {
             "Number": "179",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/179",
             "Title": "Document JDK API Support and Stability"
         },
         {
             "Number": "178",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/178",
             "Title": "Statically-Linked JNI Libraries"
         },
         {
             "Number": "177",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/177",
             "Title": "Optimize java.text.DecimalFormat.format"
         },
         {
             "Number": "176",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/176",
             "Title": "Mechanical Checking of Caller-Sensitive Methods"
         },
         {
             "Number": "175",
+            "Release": "8u20",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u20",
             "URL": "http://openjdk.java.net/jeps/175",
             "Title": "PowerPC/AIX Port"
         },
         {
             "Number": "174",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/174",
             "Title": "Nashorn JavaScript Engine"
         },
         {
             "Number": "173",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/173",
             "Title": "Retire Some Rarely-Used GC Combinations"
         },
         {
             "Number": "172",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/172",
             "Title": "DocLint"
         },
         {
             "Number": "171",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/171",
             "Title": "Fence Intrinsics"
         },
         {
             "Number": "170",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/170",
             "Title": "JDBC 4.2"
         },
         {
             "Number": "169",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Draft",
             "URL": "http://openjdk.java.net/jeps/169",
@@ -1794,46 +1825,47 @@
         },
         {
             "Number": "168",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/168",
             "Title": "Network Discovery of Manageable Java Processes"
         },
         {
             "Number": "167",
+            "Release": "7u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "7u40",
             "URL": "http://openjdk.java.net/jeps/167",
             "Title": "Event-Based JVM Tracing"
         },
         {
             "Number": "166",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/166",
             "Title": "Overhaul JKS-JCEKS-PKCS12 Keystores"
         },
         {
             "Number": "165",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/165",
             "Title": "Compiler Control"
         },
         {
             "Number": "164",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/164",
             "Title": "Leverage CPU Instructions for AES Cryptography"
         },
         {
             "Number": "163",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Draft",
             "URL": "http://openjdk.java.net/jeps/163",
@@ -1841,30 +1873,31 @@
         },
         {
             "Number": "162",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/162",
             "Title": "Prepare for Modularization"
         },
         {
             "Number": "161",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/161",
             "Title": "Compact Profiles"
         },
         {
             "Number": "160",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/160",
             "Title": "Lambda-Form Representation for Method Handles"
         },
         {
             "Number": "159",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/159",
@@ -1872,14 +1905,15 @@
         },
         {
             "Number": "158",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/158",
             "Title": "Unified JVM Logging"
         },
         {
             "Number": "157",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/157",
@@ -1887,22 +1921,23 @@
         },
         {
             "Number": "156",
+            "Release": "8u40",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8u40",
             "URL": "http://openjdk.java.net/jeps/156",
             "Title": "G1 GC: Reduce need for full GCs"
         },
         {
             "Number": "155",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/155",
             "Title": "Concurrency Updates"
         },
         {
             "Number": "154",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/154",
@@ -1910,14 +1945,15 @@
         },
         {
             "Number": "153",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/153",
             "Title": "Launch JavaFX Applications"
         },
         {
             "Number": "152",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/152",
@@ -1925,6 +1961,7 @@
         },
         {
             "Number": "151",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/151",
@@ -1932,38 +1969,39 @@
         },
         {
             "Number": "150",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/150",
             "Title": "Date & Time API"
         },
         {
             "Number": "149",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/149",
             "Title": "Reduce Core-Library Memory Usage"
         },
         {
             "Number": "148",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/148",
             "Title": "Small VM"
         },
         {
             "Number": "147",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/147",
             "Title": "Reduce Class Metadata Footprint"
         },
         {
             "Number": "146",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/146",
@@ -1971,6 +2009,7 @@
         },
         {
             "Number": "144",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/144",
@@ -1978,22 +2017,23 @@
         },
         {
             "Number": "143",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/143",
             "Title": "Improve Contended Locking"
         },
         {
             "Number": "142",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/142",
             "Title": "Reduce Cache Contention on Specified Fields"
         },
         {
             "Number": "141",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/141",
@@ -2001,30 +2041,31 @@
         },
         {
             "Number": "140",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/140",
             "Title": "Limited doPrivileged"
         },
         {
             "Number": "139",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/139",
             "Title": "Enhance javac to Improve Build Speed"
         },
         {
             "Number": "138",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/138",
             "Title": "Autoconf-Based Build System"
         },
         {
             "Number": "137",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Draft",
             "URL": "http://openjdk.java.net/jeps/137",
@@ -2032,22 +2073,23 @@
         },
         {
             "Number": "136",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/136",
             "Title": "Enhanced Verification Errors"
         },
         {
             "Number": "135",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/135",
             "Title": "Base64 Encoding & Decoding"
         },
         {
             "Number": "134",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/134",
@@ -2055,14 +2097,15 @@
         },
         {
             "Number": "133",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/133",
             "Title": "Unicode 6.2"
         },
         {
             "Number": "132",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/132",
@@ -2070,54 +2113,55 @@
         },
         {
             "Number": "131",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/131",
             "Title": "PKCS#11 Crypto Provider for 64-bit Windows"
         },
         {
             "Number": "130",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/130",
             "Title": "SHA-224 Message Digests"
         },
         {
             "Number": "129",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/129",
             "Title": "NSA Suite B Cryptographic Algorithms"
         },
         {
             "Number": "128",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/128",
             "Title": "Unicode BCP 47 Locale Matching"
         },
         {
             "Number": "127",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/127",
             "Title": "Improve Locale Data Packaging and Adopt Unicode CLDR Data"
         },
         {
             "Number": "126",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/126",
             "Title": "Lambda Expressions & Virtual Extension Methods"
         },
         {
             "Number": "125",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/125",
@@ -2125,70 +2169,71 @@
         },
         {
             "Number": "124",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/124",
             "Title": "Enhance the Certificate Revocation-Checking API"
         },
         {
             "Number": "123",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/123",
             "Title": "Configurable Secure Random-Number Generation"
         },
         {
             "Number": "122",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/122",
             "Title": "Remove the Permanent Generation"
         },
         {
             "Number": "121",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/121",
             "Title": "Stronger Algorithms for Password-Based Encryption"
         },
         {
             "Number": "120",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/120",
             "Title": "Repeating Annotations"
         },
         {
             "Number": "119",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/119",
             "Title": "javax.lang.model Implementation Backed by Core Reflection"
         },
         {
             "Number": "118",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/118",
             "Title": "Access to Parameter Names at Runtime"
         },
         {
             "Number": "117",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/117",
             "Title": "Remove the Annotation-Processing Tool (apt)"
         },
         {
             "Number": "116",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/116",
@@ -2196,38 +2241,39 @@
         },
         {
             "Number": "115",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/115",
             "Title": "AEAD CipherSuites"
         },
         {
             "Number": "114",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/114",
             "Title": "TLS Server Name Indication (SNI) Extension"
         },
         {
             "Number": "113",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/113",
             "Title": "MS-SFU Kerberos 5 Extensions"
         },
         {
             "Number": "112",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/112",
             "Title": "Charset Implementation Improvements"
         },
         {
             "Number": "111",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/111",
@@ -2235,22 +2281,23 @@
         },
         {
             "Number": "110",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/110",
             "Title": "HTTP/2 Client (Incubator)"
         },
         {
             "Number": "109",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/109",
             "Title": "Enhance Core Libraries with Lambda"
         },
         {
             "Number": "108",
+            "Release": "---",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Withdrawn",
             "URL": "http://openjdk.java.net/jeps/108",
@@ -2258,57 +2305,57 @@
         },
         {
             "Number": "107",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/107",
             "Title": "Bulk Data Operations for Collections"
         },
         {
             "Number": "106",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/106",
             "Title": "Add Javadoc to javax.tools"
         },
         {
             "Number": "105",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/105",
             "Title": "DocTree API"
         },
         {
             "Number": "104",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/104",
             "Title": "Type Annotations"
         },
         {
             "Number": "103",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/103",
             "Title": "Parallel Array Sorting"
         },
         {
             "Number": "102",
+            "Release": "9",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "9",
             "URL": "http://openjdk.java.net/jeps/102",
             "Title": "Process API Updates"
         },
         {
             "Number": "101",
+            "Release": "8",
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
-            "Release": "8",
             "URL": "http://openjdk.java.net/jeps/101",
             "Title": "Generalized Target-Type Inference"
         }

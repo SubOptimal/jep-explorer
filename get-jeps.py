@@ -55,7 +55,7 @@ def _jep_info():
         if len(jep_number) != 3:
             print(f"skip JEP: {jep_number}")
             continue
-        jep = {'Number': jep_number}
+        jep = {'Number': jep_number, 'Release': '---'}
         for span in row.find_all('span'):
             key, value = span.attrs['title'].split(':')
             jep[key] = value.strip()
