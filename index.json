@@ -5,12 +5,11 @@
         "Closed\u2009/\u2009Withdrawn",
         "Draft",
         "Integrated",
-        "Proposed to Target",
         "Targeted"
     ],
     "possible_releases": [
-        "---",
         "tbd",
+        "---",
         "16",
         "15",
         "14",
@@ -75,7 +74,7 @@
             "Number": "388",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/388",
             "Title": "Windows/AArch64 Port"
         },
@@ -171,7 +170,7 @@
             "Number": "376",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/376",
             "Title": "ZGC: Concurrent Thread-Stack Processing"
         },
