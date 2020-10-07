@@ -8,8 +8,8 @@
         "Targeted"
     ],
     "possible_releases": [
-        "tbd",
         "---",
+        "tbd",
         "16",
         "15",
         "14",
@@ -30,6 +30,14 @@
         "Infrastructure"
     ],
     "jeps": [
+        {
+            "Number": "394",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/394",
+            "Title": "Pattern Matching for instanceof"
+        },
         {
             "Number": "393",
             "Release": "---",
