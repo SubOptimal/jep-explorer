@@ -11,7 +11,7 @@ from operator import itemgetter
 def get_numeric_version(event):
     result = re.search(r"(\d+)(\D*)(\d*)", event)
     if result is None:
-        value = 999
+        value = 1000 if event == "---" else 999
     else:
         if result.group(3) != '':
             value = int(result.group(1)) + int(result.group(3))/100.0
