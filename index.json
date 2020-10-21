@@ -33,7 +33,7 @@
     "jeps": [
         {
             "Number": "395",
-            "Release": "---",
+            "Release": "16",
             "Type": "Feature",
             "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/395",
@@ -57,9 +57,9 @@
         },
         {
             "Number": "392",
-            "Release": "---",
+            "Release": "16",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/392",
             "Title": "Packaging Tool"
         },
