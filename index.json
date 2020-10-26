@@ -49,9 +49,9 @@
         },
         {
             "Number": "393",
-            "Release": "---",
+            "Release": "16",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/393",
             "Title": "Foreign-Memory Access API (Third Incubator)"
         },
