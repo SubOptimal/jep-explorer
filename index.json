@@ -43,7 +43,7 @@
             "Number": "394",
             "Release": "---",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/394",
             "Title": "Pattern Matching for instanceof"
         },
