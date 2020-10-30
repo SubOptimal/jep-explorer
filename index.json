@@ -32,6 +32,22 @@
     ],
     "jeps": [
         {
+            "Number": "397",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/397",
+            "Title": "Sealed Classes (Second Preview)"
+        },
+        {
+            "Number": "396",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/396",
+            "Title": "Strongly Encapsulate JDK Internals by Default"
+        },
+        {
             "Number": "395",
             "Release": "16",
             "Type": "Feature",
