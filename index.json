@@ -35,13 +35,13 @@
             "Number": "395",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/395",
             "Title": "Records"
         },
         {
             "Number": "394",
-            "Release": "---",
+            "Release": "16",
             "Type": "Feature",
             "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/394",
@@ -155,7 +155,7 @@
             "Number": "380",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/380",
             "Title": "Unix-Domain Socket Channels"
         },
