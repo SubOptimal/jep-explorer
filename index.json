@@ -5,7 +5,6 @@
         "Closed\u2009/\u2009Withdrawn",
         "Draft",
         "Integrated",
-        "Proposed to Target",
         "Targeted"
     ],
     "possible_releases": [
@@ -59,7 +58,7 @@
             "Number": "394",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/394",
             "Title": "Pattern Matching for instanceof"
         },
@@ -67,7 +66,7 @@
             "Number": "393",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/393",
             "Title": "Foreign-Memory Access API (Third Incubator)"
         },
@@ -75,7 +74,7 @@
             "Number": "392",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/392",
             "Title": "Packaging Tool"
         },
