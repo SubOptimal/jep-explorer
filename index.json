@@ -5,6 +5,7 @@
         "Closed\u2009/\u2009Withdrawn",
         "Draft",
         "Integrated",
+        "Proposed to Target",
         "Targeted"
     ],
     "possible_releases": [
@@ -96,9 +97,9 @@
         },
         {
             "Number": "389",
-            "Release": "---",
+            "Release": "16",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/389",
             "Title": "Foreign Linker API (Incubator)"
         },
