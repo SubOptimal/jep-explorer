@@ -41,9 +41,9 @@
         },
         {
             "Number": "396",
-            "Release": "---",
+            "Release": "16",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/396",
             "Title": "Strongly Encapsulate JDK Internals by Default"
         },
