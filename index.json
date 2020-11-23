@@ -51,7 +51,7 @@
             "Number": "395",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/395",
             "Title": "Records"
         },
@@ -67,7 +67,7 @@
             "Number": "393",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/393",
             "Title": "Foreign-Memory Access API (Third Incubator)"
         },
@@ -99,7 +99,7 @@
             "Number": "389",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/389",
             "Title": "Foreign Linker API (Incubator)"
         },
