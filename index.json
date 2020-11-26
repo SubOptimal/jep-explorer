@@ -33,7 +33,7 @@
     "jeps": [
         {
             "Number": "397",
-            "Release": "---",
+            "Release": "16",
             "Type": "Feature",
             "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/397",
@@ -89,9 +89,9 @@
         },
         {
             "Number": "390",
-            "Release": "---",
+            "Release": "16",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/390",
             "Title": "Warnings for Value-Based Classes"
         },
@@ -361,9 +361,9 @@
         },
         {
             "Number": "356",
-            "Release": "---",
+            "Release": "16",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/356",
             "Title": "Enhanced Pseudo-Random Number Generators"
         },
