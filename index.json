@@ -35,7 +35,7 @@
             "Number": "397",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/397",
             "Title": "Sealed Classes (Second Preview)"
         },
