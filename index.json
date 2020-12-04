@@ -115,7 +115,7 @@
             "Number": "387",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/387",
             "Title": "Elastic Metaspace"
         },
