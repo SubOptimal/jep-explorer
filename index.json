@@ -6,11 +6,12 @@
         "Completed",
         "Draft",
         "Integrated",
-        "Targeted"
+        "Proposed to Target"
     ],
     "possible_releases": [
         "---",
         "tbd",
+        "17",
         "16",
         "15",
         "14",
@@ -43,7 +44,7 @@
             "Number": "396",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/396",
             "Title": "Strongly Encapsulate JDK Internals by Default"
         },
@@ -67,7 +68,7 @@
             "Number": "393",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/393",
             "Title": "Foreign-Memory Access API (Third Incubator)"
         },
@@ -99,7 +100,7 @@
             "Number": "389",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/389",
             "Title": "Foreign Linker API (Incubator)"
         },
@@ -107,7 +108,7 @@
             "Number": "388",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/388",
             "Title": "Windows/AArch64 Port"
         },
@@ -123,7 +124,7 @@
             "Number": "386",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/386",
             "Title": "Alpine Linux Port"
         },
@@ -203,7 +204,7 @@
             "Number": "376",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/376",
             "Title": "ZGC: Concurrent Thread-Stack Processing"
         },
@@ -259,7 +260,7 @@
             "Number": "369",
             "Release": "16",
             "Type": "Infrastructure",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/369",
             "Title": "Migrate to GitHub"
         },
@@ -355,15 +356,15 @@
             "Number": "357",
             "Release": "16",
             "Type": "Infrastructure",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/357",
             "Title": "Migrate from Mercurial to Git"
         },
         {
             "Number": "356",
-            "Release": "---",
+            "Release": "17",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/356",
             "Title": "Enhanced Pseudo-Random Number Generators"
         },
@@ -507,7 +508,7 @@
             "Number": "338",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/338",
             "Title": "Vector API (Incubator)"
         },
