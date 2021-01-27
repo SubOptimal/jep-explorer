@@ -436,7 +436,7 @@
             "Number": "347",
             "Release": "16",
             "Type": "Infrastructure",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/347",
             "Title": "Enable C++14 Language Features"
         },
@@ -508,7 +508,7 @@
             "Number": "338",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/338",
             "Title": "Vector API (Incubator)"
         },
