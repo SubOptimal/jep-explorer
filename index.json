@@ -36,7 +36,7 @@
             "Number": "397",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/397",
             "Title": "Sealed Classes (Second Preview)"
         },
@@ -52,7 +52,7 @@
             "Number": "395",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/395",
             "Title": "Records"
         },
@@ -108,7 +108,7 @@
             "Number": "388",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/388",
             "Title": "Windows/AArch64 Port"
         },
@@ -124,7 +124,7 @@
             "Number": "386",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/386",
             "Title": "Alpine Linux Port"
         },
@@ -436,7 +436,7 @@
             "Number": "347",
             "Release": "16",
             "Type": "Infrastructure",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/347",
             "Title": "Enable C++14 Language Features"
         },
