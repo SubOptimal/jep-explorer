@@ -10,7 +10,6 @@
     ],
     "possible_releases": [
         "---",
-        "tbd",
         "17",
         "16",
         "15",
@@ -36,7 +35,7 @@
             "Number": "397",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/397",
             "Title": "Sealed Classes (Second Preview)"
         },
@@ -44,7 +43,7 @@
             "Number": "396",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/396",
             "Title": "Strongly Encapsulate JDK Internals by Default"
         },
@@ -52,7 +51,7 @@
             "Number": "395",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/395",
             "Title": "Records"
         },
@@ -60,7 +59,7 @@
             "Number": "394",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/394",
             "Title": "Pattern Matching for instanceof"
         },
@@ -154,9 +153,9 @@
         },
         {
             "Number": "382",
-            "Release": "tbd",
+            "Release": "17",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/382",
             "Title": "New macOS Rendering Pipeline"
         },
