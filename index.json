@@ -3,7 +3,6 @@
         "Candidate",
         "Closed\u2009/\u2009Delivered",
         "Closed\u2009/\u2009Withdrawn",
-        "Completed",
         "Draft",
         "Targeted"
     ],
@@ -211,7 +210,7 @@
             "Number": "376",
             "Release": "16",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/376",
             "Title": "ZGC: Concurrent Thread-Stack Processing"
         },
