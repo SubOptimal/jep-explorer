@@ -31,6 +31,22 @@
     ],
     "jeps": [
         {
+            "Number": "400",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/400",
+            "Title": "UTF-8 by Default"
+        },
+        {
+            "Number": "399",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/399",
+            "Title": "Intermediate-Representation Graph Serialization"
+        },
+        {
             "Number": "398",
             "Release": "tbd",
             "Type": "Feature",
