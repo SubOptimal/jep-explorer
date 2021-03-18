@@ -32,6 +32,38 @@
     ],
     "jeps": [
         {
+            "Number": "404",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/404",
+            "Title": "Generational Shenandoah"
+        },
+        {
+            "Number": "403",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/403",
+            "Title": "Strongly Encapsulate JDK Internals"
+        },
+        {
+            "Number": "402",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/402",
+            "Title": "Unify the Basic Primitives with Objects (Preview)"
+        },
+        {
+            "Number": "401",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/401",
+            "Title": "Primitive Objects (Preview)"
+        },
+        {
             "Number": "400",
             "Release": "---",
             "Type": "Feature",
