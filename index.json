@@ -4,11 +4,12 @@
         "Closed\u2009/\u2009Delivered",
         "Closed\u2009/\u2009Withdrawn",
         "Draft",
+        "Integrated",
+        "Proposed to Target",
         "Targeted"
     ],
     "possible_releases": [
         "---",
-        "tbd",
         "17",
         "16",
         "15",
@@ -48,9 +49,9 @@
         },
         {
             "Number": "398",
-            "Release": "tbd",
+            "Release": "17",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/398",
             "Title": "Deprecate the Applet API for Removal"
         },
@@ -104,9 +105,9 @@
         },
         {
             "Number": "391",
-            "Release": "---",
+            "Release": "17",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/391",
             "Title": "macOS/AArch64 Port"
         },
@@ -178,7 +179,7 @@
             "Number": "382",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/382",
             "Title": "New macOS Rendering Pipeline"
         },
