@@ -32,6 +32,30 @@
     ],
     "jeps": [
         {
+            "Number": "407",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/407",
+            "Title": "Remove RMI Activation"
+        },
+        {
+            "Number": "406",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/406",
+            "Title": "Pattern Matching for switch (Preview)"
+        },
+        {
+            "Number": "405",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/405",
+            "Title": "Record Patterns & Array Patterns (Preview)"
+        },
+        {
             "Number": "404",
             "Release": "---",
             "Type": "Feature",
