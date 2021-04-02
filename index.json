@@ -32,6 +32,14 @@
     ],
     "jeps": [
         {
+            "Number": "408",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/408",
+            "Title": "Simple Web Server"
+        },
+        {
             "Number": "407",
             "Release": "---",
             "Type": "Feature",
@@ -107,7 +115,7 @@
             "Number": "398",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/398",
             "Title": "Deprecate the Applet API for Removal"
         },
