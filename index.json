@@ -5,8 +5,7 @@
         "Closed\u2009/\u2009Withdrawn",
         "Completed",
         "Draft",
-        "Integrated",
-        "Targeted"
+        "Integrated"
     ],
     "possible_releases": [
         "---",
@@ -171,7 +170,7 @@
             "Number": "391",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/391",
             "Title": "macOS/AArch64 Port"
         },
@@ -451,7 +450,7 @@
             "Number": "356",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/356",
             "Title": "Enhanced Pseudo-Random Number Generators"
         },
