@@ -31,6 +31,14 @@
     ],
     "jeps": [
         {
+            "Number": "409",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/409",
+            "Title": "Sealed Classes"
+        },
+        {
             "Number": "408",
             "Release": "---",
             "Type": "Feature",
