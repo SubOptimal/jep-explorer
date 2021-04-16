@@ -5,7 +5,8 @@
         "Closed\u2009/\u2009Withdrawn",
         "Completed",
         "Draft",
-        "Integrated"
+        "Integrated",
+        "Proposed to Target"
     ],
     "possible_releases": [
         "---",
@@ -31,10 +32,18 @@
     ],
     "jeps": [
         {
-            "Number": "410",
+            "Number": "411",
             "Release": "---",
             "Type": "Feature",
             "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/411",
+            "Title": "Deprecate the Security Manager for Removal"
+        },
+        {
+            "Number": "410",
+            "Release": "17",
+            "Type": "Feature",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/410",
             "Title": "Remove the Experimental AOT and JIT Compiler"
         },
@@ -130,7 +139,7 @@
             "Number": "398",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/398",
             "Title": "Deprecate the Applet API for Removal"
         },
