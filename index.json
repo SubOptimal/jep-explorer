@@ -33,6 +33,14 @@
     ],
     "jeps": [
         {
+            "Number": "412",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/412",
+            "Title": "Foreign Function & Memory API (Incubator)"
+        },
+        {
             "Number": "411",
             "Release": "---",
             "Type": "Feature",
