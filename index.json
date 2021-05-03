@@ -33,6 +33,14 @@
     ],
     "jeps": [
         {
+            "Number": "414",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/414",
+            "Title": "Vector API (Second Incubator)"
+        },
+        {
             "Number": "413",
             "Release": "---",
             "Type": "Feature",
