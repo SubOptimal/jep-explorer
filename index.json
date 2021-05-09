@@ -11,6 +11,7 @@
     ],
     "possible_releases": [
         "---",
+        "tbd",
         "17",
         "16",
         "15",
@@ -34,9 +35,9 @@
     "jeps": [
         {
             "Number": "414",
-            "Release": "---",
+            "Release": "17",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/414",
             "Title": "Vector API (Second Incubator)"
         },
@@ -74,7 +75,7 @@
         },
         {
             "Number": "409",
-            "Release": "---",
+            "Release": "17",
             "Type": "Feature",
             "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/409",
