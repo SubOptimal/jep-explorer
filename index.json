@@ -34,6 +34,14 @@
     ],
     "jeps": [
         {
+            "Number": "415",
+            "Release": "tbd",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/415",
+            "Title": "Context-Specific Deserialization Filters"
+        },
+        {
             "Number": "414",
             "Release": "17",
             "Type": "Feature",
