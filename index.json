@@ -7,7 +7,8 @@
         "Completed\u2009/\u2009Delivered",
         "Draft",
         "Integrated",
-        "Proposed to Target"
+        "Proposed to Target",
+        "Targeted"
     ],
     "possible_releases": [
         "---",
@@ -59,9 +60,9 @@
         },
         {
             "Number": "412",
-            "Release": "---",
+            "Release": "17",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/412",
             "Title": "Foreign Function & Memory API (Incubator)"
         },
@@ -85,7 +86,7 @@
             "Number": "409",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/409",
             "Title": "Sealed Classes"
         },
@@ -99,9 +100,9 @@
         },
         {
             "Number": "407",
-            "Release": "---",
+            "Release": "17",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/407",
             "Title": "Remove RMI Activation"
         },
