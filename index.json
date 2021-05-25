@@ -46,7 +46,7 @@
             "Number": "414",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/414",
             "Title": "Vector API (Second Incubator)"
         },
@@ -62,15 +62,15 @@
             "Number": "412",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/412",
             "Title": "Foreign Function & Memory API (Incubator)"
         },
         {
             "Number": "411",
-            "Release": "---",
+            "Release": "17",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/411",
             "Title": "Deprecate the Security Manager for Removal"
         },
@@ -86,7 +86,7 @@
             "Number": "409",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/409",
             "Title": "Sealed Classes"
         },
@@ -102,15 +102,15 @@
             "Number": "407",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/407",
             "Title": "Remove RMI Activation"
         },
         {
             "Number": "406",
-            "Release": "---",
+            "Release": "17",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/406",
             "Title": "Pattern Matching for switch (Preview)"
         },
@@ -132,9 +132,9 @@
         },
         {
             "Number": "403",
-            "Release": "---",
+            "Release": "17",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/403",
             "Title": "Strongly Encapsulate JDK Internals"
         },
@@ -908,9 +908,9 @@
         },
         {
             "Number": "306",
-            "Release": "---",
+            "Release": "17",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/306",
             "Title": "Restore Always-Strict Floating-Point Semantics"
         },
