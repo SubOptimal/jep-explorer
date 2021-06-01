@@ -12,7 +12,6 @@
     ],
     "possible_releases": [
         "---",
-        "tbd",
         "17",
         "16",
         "15",
@@ -36,7 +35,7 @@
     "jeps": [
         {
             "Number": "415",
-            "Release": "tbd",
+            "Release": "17",
             "Type": "Feature",
             "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/415",
