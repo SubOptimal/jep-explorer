@@ -69,7 +69,7 @@
             "Number": "411",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/411",
             "Title": "Deprecate the Security Manager for Removal"
         },
@@ -109,7 +109,7 @@
             "Number": "406",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/406",
             "Title": "Pattern Matching for switch (Preview)"
         },
@@ -909,7 +909,7 @@
             "Number": "306",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/306",
             "Title": "Restore Always-Strict Floating-Point Semantics"
         },
