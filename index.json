@@ -61,7 +61,7 @@
             "Number": "412",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/412",
             "Title": "Foreign Function & Memory API (Incubator)"
         },
@@ -77,7 +77,7 @@
             "Number": "410",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/410",
             "Title": "Remove the Experimental AOT and JIT Compiler"
         },
@@ -101,7 +101,7 @@
             "Number": "407",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/407",
             "Title": "Remove RMI Activation"
         },
