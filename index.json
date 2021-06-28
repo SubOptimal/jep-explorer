@@ -6,12 +6,11 @@
         "Completed",
         "Completed\u2009/\u2009Delivered",
         "Draft",
-        "Integrated",
-        "Proposed to Target",
-        "Targeted"
+        "Integrated"
     ],
     "possible_releases": [
         "---",
+        "18",
         "17",
         "16",
         "15",
@@ -37,7 +36,7 @@
             "Number": "415",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/415",
             "Title": "Context-Specific Deserialization Filters"
         },
@@ -45,7 +44,7 @@
             "Number": "414",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/414",
             "Title": "Vector API (Second Incubator)"
         },
@@ -61,7 +60,7 @@
             "Number": "412",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/412",
             "Title": "Foreign Function & Memory API (Incubator)"
         },
@@ -69,7 +68,7 @@
             "Number": "411",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/411",
             "Title": "Deprecate the Security Manager for Removal"
         },
@@ -85,7 +84,7 @@
             "Number": "409",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/409",
             "Title": "Sealed Classes"
         },
@@ -101,7 +100,7 @@
             "Number": "407",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/407",
             "Title": "Remove RMI Activation"
         },
@@ -109,13 +108,13 @@
             "Number": "406",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Targeted",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/406",
             "Title": "Pattern Matching for switch (Preview)"
         },
         {
             "Number": "405",
-            "Release": "---",
+            "Release": "18",
             "Type": "Feature",
             "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/405",
@@ -133,7 +132,7 @@
             "Number": "403",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/403",
             "Title": "Strongly Encapsulate JDK Internals"
         },
@@ -509,7 +508,7 @@
             "Number": "356",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/356",
             "Title": "Enhanced Pseudo-Random Number Generators"
         },
