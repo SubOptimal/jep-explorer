@@ -100,7 +100,7 @@
             "Number": "407",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/407",
             "Title": "Remove RMI Activation"
         },
