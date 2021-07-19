@@ -68,7 +68,7 @@
             "Number": "411",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/411",
             "Title": "Deprecate the Security Manager for Removal"
         },
@@ -108,7 +108,7 @@
             "Number": "406",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Integrated",
+            "Status": "Completed",
             "URL": "http://openjdk.java.net/jeps/406",
             "Title": "Pattern Matching for switch (Preview)"
         },
