@@ -5,8 +5,7 @@
         "Closed\u2009/\u2009Withdrawn",
         "Completed",
         "Completed\u2009/\u2009Delivered",
-        "Draft",
-        "Proposed to Target"
+        "Draft"
     ],
     "possible_releases": [
         "---",
@@ -44,7 +43,7 @@
             "Number": "414",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/414",
             "Title": "Vector API (Second Incubator)"
         },
@@ -154,9 +153,9 @@
         },
         {
             "Number": "400",
-            "Release": "18",
+            "Release": "---",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Candidate",
             "URL": "http://openjdk.java.net/jeps/400",
             "Title": "UTF-8 by Default"
         },
