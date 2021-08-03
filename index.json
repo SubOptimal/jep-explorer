@@ -5,7 +5,8 @@
         "Closed\u2009/\u2009Withdrawn",
         "Completed",
         "Completed\u2009/\u2009Delivered",
-        "Draft"
+        "Draft",
+        "Proposed to Target"
     ],
     "possible_releases": [
         "---",
@@ -35,7 +36,7 @@
             "Number": "415",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/415",
             "Title": "Context-Specific Deserialization Filters"
         },
@@ -153,9 +154,9 @@
         },
         {
             "Number": "400",
-            "Release": "---",
+            "Release": "18",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/400",
             "Title": "UTF-8 by Default"
         },
