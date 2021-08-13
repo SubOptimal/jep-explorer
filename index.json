@@ -4,7 +4,6 @@
         "Closed\u2009/\u2009Delivered",
         "Closed\u2009/\u2009Withdrawn",
         "Completed",
-        "Completed\u2009/\u2009Delivered",
         "Draft",
         "Proposed to Target"
     ],
@@ -76,7 +75,7 @@
             "Number": "410",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/410",
             "Title": "Remove the Experimental AOT and JIT Compiler"
         },
@@ -172,7 +171,7 @@
             "Number": "398",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Completed\u2009/\u2009Delivered",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/398",
             "Title": "Deprecate the Applet API for Removal"
         },
