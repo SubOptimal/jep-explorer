@@ -32,6 +32,22 @@
     ],
     "jeps": [
         {
+            "Number": "417",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/417",
+            "Title": "Vector API (Third Incubator)"
+        },
+        {
+            "Number": "416",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/416",
+            "Title": "Reimplement Core Reflection with Method Handles"
+        },
+        {
             "Number": "415",
             "Release": "17",
             "Type": "Feature",
