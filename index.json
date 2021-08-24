@@ -65,9 +65,9 @@
         },
         {
             "Number": "413",
-            "Release": "---",
+            "Release": "18",
             "Type": "Feature",
-            "Status": "Candidate",
+            "Status": "Proposed to Target",
             "URL": "http://openjdk.java.net/jeps/413",
             "Title": "Code Snippets in Java API Documentation"
         },
