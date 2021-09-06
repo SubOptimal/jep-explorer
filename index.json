@@ -5,7 +5,8 @@
         "Closed\u2009/\u2009Withdrawn",
         "Completed",
         "Draft",
-        "Proposed to Target"
+        "Integrated",
+        "Targeted"
     ],
     "possible_releases": [
         "---",
@@ -67,7 +68,7 @@
             "Number": "413",
             "Release": "18",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Targeted",
             "URL": "http://openjdk.java.net/jeps/413",
             "Title": "Code Snippets in Java API Documentation"
         },
@@ -171,7 +172,7 @@
             "Number": "400",
             "Release": "18",
             "Type": "Feature",
-            "Status": "Proposed to Target",
+            "Status": "Integrated",
             "URL": "http://openjdk.java.net/jeps/400",
             "Title": "UTF-8 by Default"
         },
@@ -315,7 +316,7 @@
             "Number": "382",
             "Release": "17",
             "Type": "Feature",
-            "Status": "Completed",
+            "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/382",
             "Title": "New macOS Rendering Pipeline"
         },
@@ -381,7 +382,7 @@
             "Type": "Feature",
             "Status": "Closed\u2009/\u2009Delivered",
             "URL": "http://openjdk.java.net/jeps/374",
-            "Title": "Disable and Deprecate Biased Locking"
+            "Title": "Deprecate and Disable Biased Locking"
         },
         {
             "Number": "373",
