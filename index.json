@@ -33,6 +33,14 @@
     ],
     "jeps": [
         {
+            "Number": "418",
+            "Release": "---",
+            "Type": "Feature",
+            "Status": "Candidate",
+            "URL": "http://openjdk.java.net/jeps/418",
+            "Title": "Internet-Address Resolution SPI"
+        },
+        {
             "Number": "417",
             "Release": "---",
             "Type": "Feature",
