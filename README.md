@@ -1,3 +1,7 @@
+In favor of [JEPmap](https://chriswhocodes.com/jepmap.html) from https://github.com/chriswhocodes this project has been discontinued.
+
+---
+
 # jep-explorer.github.io
 
 An easy to use online explorer for JDK Enhancement Proposals. The JEP's can be
